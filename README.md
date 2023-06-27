@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vishal!</h1>
 <h2 align="center">Welcome to my Github profile!</h2>
-<h4 align="center">Thank you for stopping by! I'm excited to connect and share my professional journey with you. Let me take a moment to introduce myself.</h4>
+<h4 align="center">Thank you for stopping by! I'm excited to share my professional journey with you. Let me take a moment to introduce myself.</h4>
 
 - I'm Vishal Manam, a final year student at IIIT Bhubaneswar with an ardent passion for Software Development, Computer Vision, Cloud Computing and Machine Learning.
 
