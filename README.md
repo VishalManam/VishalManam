@@ -12,4 +12,4 @@
 
 <h4 align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/vishalmanam" target="blank">LinkedIn</a></h3>
 <h4 align="center">Languages and Tools: </h3>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,react,php,mysql,gcp,git"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,react,php,mysql,aws,gcp,git,django"/></a></p>
