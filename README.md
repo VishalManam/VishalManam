@@ -12,7 +12,12 @@
 
 <h4 align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/vishalmanam" target="blank">LinkedIn</a></h3>
 <h3 align="center">Programming and Web Languages: </h3>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,php"/></a></p>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,react,php,mysql,aws,gcp,git,django"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php"/></a></p>
 <h3 align="center">Frameworks and Libraries: </h3>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,bootstrap,tkinter,react"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,bootstrap,react"/></a></p>
+<h3 align="center">Databases: </h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,mysql"/></a></p>
+<h3 align="center">Cloud Platforms: </h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp"/></a></p>
+<h3 align="center">Other Skills: </h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,linux"/></a></p>
