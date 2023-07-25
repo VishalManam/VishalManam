@@ -11,5 +11,8 @@
 - Feel free to explore my experiences and reach out if you'd like to connect or discuss exciting projects.
 
 <h4 align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/vishalmanam" target="blank">LinkedIn</a></h3>
-<h4 align="center">Languages and Tools: </h3>
+<h3 align="center">Programming and Web Languages: </h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,php"/></a></p>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,bootstrap,js,react,php,mysql,aws,gcp,git,django"/></a></p>
+<h3 align="center">Frameworks and Libraries: </h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,bootstrap,tkinter,react"/></a></p>
