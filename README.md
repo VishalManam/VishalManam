@@ -10,7 +10,7 @@
 
 - Feel free to explore my experiences and reach out if you'd like to connect or discuss exciting projects.
 
-<h4 align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/vishalmanam" target="blank">LinkedIn</a></h3>
+<h4 align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/vishalmanam" target="_blank">LinkedIn</a></h3>
 <h3 align="center">Programming and Web Languages: </h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php"/></a></p>
 <h3 align="center">Frameworks and Libraries: </h3>
