@@ -21,7 +21,3 @@
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp"/></a></p>
 <h3 align="center">Other Skills: </h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,linux"/></a></p>
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmanam&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
